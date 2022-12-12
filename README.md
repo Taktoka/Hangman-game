@@ -16,4 +16,4 @@
 ### Links
 
 - Solution URL: [https://github.com/Taktoka/Hangman-game.git]https://github.com/Taktoka/Hangman-game.git)
-- Live Site URL: [https://todo-app-murex-one.vercel.app/](https://todo-app-murex-one.vercel.app/)
+- Live Site URL: [https://hangman-game-pied.vercel.app/](https://hangman-game-pied.vercel.app/)
